@@ -44,7 +44,7 @@ cd MyApp
 Open the project file:
 
 ```bash
-nano MyApp.csproj
+gedit MyApp.csproj
 ```
 
 Change this line:
